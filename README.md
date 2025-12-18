@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Yeshwanth  
-**Aspiring software & AI Engineer | Data Science Enthusiast | Continuous Learner**
+**Aspiring Software & AI Engineer | Data Science Enthusiast | Continuous Learner**
 
 ---
 
