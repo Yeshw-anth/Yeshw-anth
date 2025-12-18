@@ -44,10 +44,6 @@ Here are a few repositories I’m proud of — check them out and explore more o
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *https://www.linkedin.com/in/yeshwanth-g-7979b8211/* 
-
 Thanks for visiting! Feel free to explore and reach out — I’m always happy to collaborate or discuss ideas 😊
 
 
