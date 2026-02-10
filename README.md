@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Yeshwanth  
-**Software & AI Engineer | Data Science Enthusiast | Continuous Learner**
+**AI/ML & Backend Engineer building production LLM & retrieval systems in Python | scalable data workflows**
 
 ---
 
