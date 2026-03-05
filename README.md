@@ -20,11 +20,11 @@ My interests lie at the intersection of **Software Engineering, Machine Learning
 
 ## ⚙️ Tech Stack
 
-### 🛠️ Languages & Tools  
-Python · SQL · postgresql · JavaScript · html · css · Git · Fastapi · streamlit · vs code 
+### 🛠️ Languages, framewroks & Tools  
+Python · SQL · postgresql · JavaScript · html · css · Git · Fastapi · Flask · streamlit · vs code 
 
 ### 🤖 AI & ML  
-Scikit-Learn · NumPy · Pandas · TensorFlow / PyTorch (learning) · Transformers · LLMs (APIs & Open source) · AI Agent development
+Gen AI · RAG · Scikit-Learn · NumPy · Pandas · TensorFlow · PyTorch · Langchain · Transformers · LLMs (APIs & Open source) · AI Agent development · google adk
 Model training & evaluation · Feature engineering · Data preprocessing . Azure AI studio
 
 ### 📊 Data & Systems  
