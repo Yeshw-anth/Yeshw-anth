@@ -49,7 +49,6 @@ I care deeply about:
 - Embeddings & Vector Search (FAISS)  
 - Fine-tuning · Inference Optimization  
 
----
 
 ### 🧠 Machine Learning & Data Science  
 - Supervised & Unsupervised Learning  
@@ -58,7 +57,6 @@ I care deeply about:
 - Libraries: Scikit-learn · Pandas · NumPy  
 - Deep Learning (PyTorch · TensorFlow)  
 
----
 
 ### 📊 Data Engineering & Analytics  
 - SQL (Advanced Queries, Joins, Window Functions)  
@@ -67,7 +65,6 @@ I care deeply about:
 - Data Modeling Basics  
 - Analytics & Visualization (Dashboards, Insights Generation)  
 
----
 
 ### 🔎 RAG & Search Systems (Specialization)  
 - Document Ingestion Pipelines (Parsing, Chunking Strategies)  
@@ -77,7 +74,6 @@ I care deeply about:
 - Latency vs Accuracy Trade-off Design  
 - Context Compression & Filtering  
 
----
 
 ### 🌐 Frontend & Interaction  
 - Streamlit (AI Apps, Dashboards)  
@@ -101,7 +97,7 @@ I care deeply about:
 
 **Tech:** Python · FastAPI · FAISS · LangChain · LLMs . llama-index
 
----
+
 
 ### 📊 DataSense AI — AI-Powered Data Analyst  
 **Go from raw data to insights in seconds using natural language**
@@ -117,7 +113,7 @@ I care deeply about:
 
 **Tech:** Python · Flask · SQL · Pandas · LLMs . AI Agents . Langchain . Langgraph 
 
----
+
 
 ### 🤖 Ride-Hailing Chatbot (Conversational AI System)
 
@@ -130,7 +126,7 @@ I care deeply about:
 
 **Tech:** Python · Rasa · REST APIs · WebSockets · JavaScript . LLMs
 
----
+
 
 ### 🚗 Automated Driver Verification & Onboarding System
 
