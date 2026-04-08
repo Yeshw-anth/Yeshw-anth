@@ -30,19 +30,58 @@ I care deeply about:
 
 ## ⚙️ Tech Stack
 
-### 🛠️ Backend & Engineering  
-Python · FastAPI · Flask · REST APIs · Microservices · PostgreSQL · SQL · Git  
+### 🛠️ Backend & System Design  
+- Python (Production Systems, Async, Performance Optimization)  
+- FastAPI · Flask (API Design, Middleware, Dependency Injection)  
+- REST APIs · Microservices Architecture · Service-Oriented Design  
+- Caching (Redis) · Rate Limiting · API Optimization  
+- Logging & Observability (Structured Logs, Metrics, Monitoring)  
 
-### 🤖 AI / ML / LLM Systems  
-Retrieval-Augmented Generation (RAG) · LLM Applications · Prompt Engineering  
-LangChain · Transformers · PyTorch · TensorFlow · Scikit-learn  
-AI Agents · Model Evaluation · Fine-tuning Basics  
+---
 
-### 📊 Data & Analytics  
-Pandas · NumPy · Data Pipelines · ETL · Dashboards · SQL Analytics  
+### 🤖 AI / ML / LLM Engineering  
+- Retrieval-Augmented Generation (RAG) Systems (End-to-End Design)  
+- Adaptive Retrieval Pipelines · Hybrid Search (Dense + Sparse)  
+- Prompt Engineering · Context Optimization · Token Efficiency  
+- LLM Integration (OpenAI, Open Source Models)  
+- AI Agents · Tool Calling · Multi-Agent Workflows  
+- Model Evaluation (Qualitative + Quantitative, LLM-as-Judge)  
+- Embeddings & Vector Search (FAISS)  
+- Fine-tuning · Inference Optimization  
 
-### 🌐 Frontend & Tools  
-Streamlit · HTML · CSS · JavaScript · VS Code  
+---
+
+### 🧠 Machine Learning & Data Science  
+- Supervised & Unsupervised Learning  
+- Feature Engineering · Data Preprocessing · Model Selection  
+- Model Evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)  
+- Libraries: Scikit-learn · Pandas · NumPy  
+- Deep Learning (PyTorch · TensorFlow)  
+
+---
+
+### 📊 Data Engineering & Analytics  
+- SQL (Advanced Queries, Joins, Window Functions)  
+- PostgreSQL · Query Optimization  
+- Data Pipelines (ETL/ELT Workflows)  
+- Data Modeling Basics  
+- Analytics & Visualization (Dashboards, Insights Generation)  
+
+---
+
+### 🔎 RAG & Search Systems (Specialization)  
+- Document Ingestion Pipelines (Parsing, Chunking Strategies)  
+- Structure-Aware Processing (Text, Code, Tables, Images)  
+- Query Routing & Strategy Selection  
+- Reranking Techniques · Similarity Search Optimization  
+- Latency vs Accuracy Trade-off Design  
+- Context Compression & Filtering  
+
+---
+
+### 🌐 Frontend & Interaction  
+- Streamlit (AI Apps, Dashboards)  
+- HTML · CSS · JavaScript (Basic UI Development)  
 
 ---
 
@@ -60,7 +99,7 @@ Streamlit · HTML · CSS · JavaScript · VS Code
 - Integrated **multi-strategy retrieval + reranking** for improved answer quality  
 - Optimized for **latency, scalability, and extensibility**
 
-**Tech:** Python · FastAPI · FAISS · LangChain · LLM APIs  
+**Tech:** Python · FastAPI · FAISS · LangChain · LLMs . llama-index
 
 ---
 
@@ -76,31 +115,33 @@ Streamlit · HTML · CSS · JavaScript · VS Code
 - Designed for **non-technical users** to interact with data via chat  
 - Focused on **speed, usability, and business value delivery**
 
-**Tech:** Python · FastAPI · SQL · Pandas · Streamlit · LLM APIs  
+**Tech:** Python · Flask · SQL · Pandas · LLMs . AI Agents . Langchain . Langgraph 
 
 ---
 
 ### 🤖 Ride-Hailing Chatbot (Conversational AI System)
 
-- Developed a **context-aware chatbot** using Rasa  
+- Developed a hybrid **context-aware chatbot** 
 - Implemented:
   - Intent classification & entity extraction  
   - Dialogue management for multi-turn conversations  
-- Built **custom actions & backend integrations** via APIs  
+- Built **custom actions & backend integrations** via APIs
 - Focused on **conversation accuracy and state handling**
 
-**Tech:** Python · Rasa · REST APIs · WebSockets · JavaScript  
+**Tech:** Python · Rasa · REST APIs · WebSockets · JavaScript . LLMs
 
 ---
 
-### 🚗 Automated Driver Verification System
+### 🚗 Automated Driver Verification & Onboarding System
 
-- Built an **AI-powered automation system** for driver onboarding  
-- Automated **document validation and approval workflows**  
-- Reduced manual effort and improved processing consistency  
-- Designed backend services for **scalability and reliability**
+- Designed an **intelligent image validation layer** to:
+  - Filter low-quality / blurry / invalid uploads before processing  
+  - Detect incorrect document types using lightweight CV models  
+  - Reduce unnecessary API calls → **lowering verification cost and latency**  
+- Reduced manual effort and improved processing consistency   
+- Optimized pipeline for **high throughput, reliability, and cost efficiency** in real-world deployment  
 
-**Tech:** Python · FastAPI · Azure AI Studio  
+**Tech:** Python · FastAPI · Azure AI . LLMs
 
 ---
 
