@@ -1,49 +1,137 @@
 # 👋 Hello, I'm Yeshwanth  
-**AI/ML & Backend Engineer building production LLM & retrieval systems in Python | scalable data workflows**
+**AI/ML & Backend Engineer | Building Production-Ready LLM Systems, Adaptive RAG Pipelines & Intelligent Data Platforms**
 
 ---
 
 ## 🧠 About Me
 
-I’m a software developer passionate about **building real-world applications using modern technologies**.  
-My interests lie at the intersection of **Software Engineering, Machine Learning, AI, and Data Science** — where practical engineering meets intelligent solutions.
+I’m an engineer focused on **designing and deploying scalable AI-powered systems** that bridge the gap between **data, models, and real-world applications**.
+
+My work sits at the intersection of:
+- **Backend Engineering** (APIs, microservices, system design)
+- **Generative AI & LLM Systems** (RAG, agents, evaluation)
+- **Data Systems & Analytics** (pipelines, SQL, insights)
+
+I care deeply about:
+- Building **production-grade AI systems**
+- Designing **adaptive, intelligent pipelines**
+- Writing **clean, maintainable, scalable code**
 
 ---
 
-## 🔍 What I’m Working On
-- Building backend services and APIs with clean, maintainable code  
-- Exploring and deploying **ML/AI models** for practical use cases  
-- Developing data pipelines and analytics workflows  
-- Improving software performance and reliability
+## 🚀 What I’m Currently Focused On
+
+- Architecting **end-to-end RAG systems** with adaptive retrieval strategies  
+- Building **LLM-powered applications** with real-world usability  
+- Designing **data-to-insight systems** (AI analysts, automation tools)  
+- Improving **observability, evaluation, and reliability** in AI systems  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🛠️ Languages, framewroks & Tools  
-Python · SQL · postgresql · JavaScript · html · css · Git · Fastapi · Flask · streamlit · vs code 
+### 🛠️ Backend & Engineering  
+Python · FastAPI · Flask · REST APIs · Microservices · PostgreSQL · SQL · Git  
 
-### 🤖 AI & ML  
-Gen AI · RAG · Scikit-Learn · NumPy · Pandas · TensorFlow · PyTorch · Langchain · Transformers · LLMs (APIs & Open source) · AI Agent development · google adk
-Model training & evaluation · Feature engineering · Data preprocessing . Azure AI studio
+### 🤖 AI / ML / LLM Systems  
+Retrieval-Augmented Generation (RAG) · LLM Applications · Prompt Engineering  
+LangChain · Transformers · PyTorch · TensorFlow · Scikit-learn  
+AI Agents · Model Evaluation · Fine-tuning Basics  
 
-### 📊 Data & Systems  
-Data analysis · Dashboards · SQL querying · ETL basics
+### 📊 Data & Analytics  
+Pandas · NumPy · Data Pipelines · ETL · Dashboards · SQL Analytics  
 
----
-
-## 📌 Featured Projects
-Here are a few repositories I’m proud of — check them out and explore more on my profile:
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **ride hailing app chat bot** | Designed and developed a conversational AI chatbot using the Rasa framework, implementing intent classification, entity extraction, dialogue management, and custom actions. Built and trained NLU pipelines and stories to handle multi-turn conversations, with a focus on accuracy, context handling, and maintainability. | Python, rasa, rest api , websocket, html, css , javascript, webhook|
-| **Automated driver verification and approval for ride hailing app** | Built an automation tool to streamline repetitive tasks involving data processing and validation. Improved efficiency by reducing manual effort and ensuring consistent, repeatable results. | Python, fastapi, Azure ai studio |
-| **EDA of geolocational data** |Performed exploratory data analysis on structured datasets to identify trends, patterns, and anomalies. Cleaned and transformed raw data, generated visual insights, and summarized findings to support data-driven decision making. | Pandas, Plotly, scikit-learn, html, css, javascript |
-| **RAG enabled support agent** | Developed an agent using Retrieval-Augmented Generation (RAG) to answer questions based on a custom knowledge base. Integrated document retrieval with language model generation to improve accuracy and reduce hallucinations. | vector dbs, embeddings, llms (open source & apis), transformers, google-adk |
+### 🌐 Frontend & Tools  
+Streamlit · HTML · CSS · JavaScript · VS Code  
 
 ---
 
-Thanks for visiting! Feel free to explore and reach out — I’m always happy to collaborate or discuss ideas 😊
+## 🔥 Featured Projects
 
+### 🧠 Auto-Adaptive Hybrid RAG System  
+**Production-ready intelligent retrieval system for diverse data sources**
 
+- Built a **structure-aware ingestion pipeline** supporting text, code, tables, and images  
+- Designed **adaptive chunking strategies** optimized per content type  
+- Implemented a **dynamic query router** that selects:
+  - Fast pipeline (low latency)
+  - Accurate pipeline (deep retrieval + reranking)
+  - Specialized pipelines (for complex queries)
+- Integrated **multi-strategy retrieval + reranking** for improved answer quality  
+- Optimized for **latency, scalability, and extensibility**
+
+**Tech:** Python · FastAPI · FAISS · LangChain · LLM APIs  
+
+---
+
+### 📊 DataSense AI — AI-Powered Data Analyst  
+**Go from raw data to insights in seconds using natural language**
+
+- Built an **AI analyst system** that converts user queries into:
+  - SQL queries  
+  - Data analysis  
+  - Visualizations  
+- Automated **end-to-end analytics workflow**:
+  - Query → SQL → Execution → Visualization → Summary  
+- Designed for **non-technical users** to interact with data via chat  
+- Focused on **speed, usability, and business value delivery**
+
+**Tech:** Python · FastAPI · SQL · Pandas · Streamlit · LLM APIs  
+
+---
+
+### 🤖 Ride-Hailing Chatbot (Conversational AI System)
+
+- Developed a **context-aware chatbot** using Rasa  
+- Implemented:
+  - Intent classification & entity extraction  
+  - Dialogue management for multi-turn conversations  
+- Built **custom actions & backend integrations** via APIs  
+- Focused on **conversation accuracy and state handling**
+
+**Tech:** Python · Rasa · REST APIs · WebSockets · JavaScript  
+
+---
+
+### 🚗 Automated Driver Verification System
+
+- Built an **AI-powered automation system** for driver onboarding  
+- Automated **document validation and approval workflows**  
+- Reduced manual effort and improved processing consistency  
+- Designed backend services for **scalability and reliability**
+
+**Tech:** Python · FastAPI · Azure AI Studio  
+
+---
+
+## 🧩 Key Strengths
+
+- Designing **end-to-end AI systems (not just models)**  
+- Strong understanding of **RAG architectures & trade-offs**  
+- Building **scalable backend systems for ML applications**  
+- Focus on **real-world impact, performance, and usability**  
+
+---
+
+## 📈 What Makes My Work Different
+
+- I don’t just use LLMs — I **engineer systems around them**  
+- I focus on **adaptive intelligence (not static pipelines)**  
+- I build with **production constraints in mind**:
+  - Latency  
+  - Cost  
+  - Evaluation  
+  - Observability  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to:
+- Collaborating on **AI/ML or backend projects**
+- Discussing **system design, RAG, or LLM architectures**
+- Exploring **opportunities in AI engineering**
+
+---
+
+⭐ *If you find my work interesting, feel free to explore my repositories and connect!*
