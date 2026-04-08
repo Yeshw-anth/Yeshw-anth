@@ -37,7 +37,7 @@ I care deeply about:
 - Caching (Redis) · Rate Limiting · API Optimization  
 - Logging & Observability (Structured Logs, Metrics, Monitoring)  
 
----
+
 
 ### 🤖 AI / ML / LLM Engineering  
 - Retrieval-Augmented Generation (RAG) Systems (End-to-End Design)  
