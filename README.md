@@ -1,21 +1,16 @@
 # 👋 Hello, I'm Yeshwanth  
-**AI/ML & Backend Engineer | Building Production-Ready LLM Systems, Adaptive RAG Pipelines & Intelligent Data Platforms**
+**AI/ML & Backend Engineer | Building Production-Ready LLM Systems, Adaptive RAG Pipelines & Intelligent AI workflows**
 
 ---
 
-## 🧠 About Me
+## 🧠 About me
 
-I’m an engineer focused on **designing and deploying scalable AI-powered systems** that bridge the gap between **data, models, and real-world applications**.
-
-My work sits at the intersection of:
-- **Backend Engineering** (APIs, microservices, system design)
-- **Generative AI & LLM Systems** (RAG, agents, evaluation)
-- **Data Systems & Analytics** (pipelines, SQL, insights)
+I’m an engineer focused on **designing and deploying scalable AI-powered systems** that combine retrieval systems, agent workflows, and backend engineering into cohesive, production-ready systems with a strong focus on **cost efficiency, scalability, and real-world deployment constraints**.
 
 I care deeply about:
 - Building **production-grade AI systems**
 - Designing **adaptive, intelligent pipelines**
-- Writing **clean, maintainable, scalable code**
+- **Evaluation** & **Reliability** of LLM Systems
 
 ---
 
@@ -76,7 +71,7 @@ I care deeply about:
 
 
 ### 🌐 Frontend & Interaction  
-- Streamlit (AI Apps, Dashboards)  
+- Streamlit (AI Apps, Dashboards) . gradio
 - HTML · CSS · JavaScript (Basic UI Development)  
 
 ---
@@ -119,22 +114,23 @@ I care deeply about:
 
 - Developed a hybrid **context-aware chatbot** 
 - Implemented:
-  - Intent classification & entity extraction  
+  - Intent classification & entity extraction 
   - Dialogue management for multi-turn conversations  
 - Built **custom actions & backend integrations** via APIs
 - Focused on **conversation accuracy and state handling**
+- Improved response time, issue resolution and customer satisfaction
 
 **Tech:** Python · Rasa · REST APIs · WebSockets · JavaScript . LLMs
 
 
 
-### 🚗 Automated Driver Verification & Onboarding System
+### 🚗 AI Driver Verification & Onboarding System for ride hailing app
 
 - Designed an **intelligent image validation layer** to:
   - Filter low-quality / blurry / invalid uploads before processing  
   - Detect incorrect document types using lightweight CV models  
   - Reduce unnecessary API calls → **lowering verification cost and latency**  
-- Reduced manual effort and improved processing consistency   
+- **Reduced manual effort** and **improved processing consistency** through automated driver verification and onboarding 
 - Optimized pipeline for **high throughput, reliability, and cost efficiency** in real-world deployment  
 
 **Tech:** Python · FastAPI · Azure AI . LLMs
