@@ -137,15 +137,6 @@ I care deeply about:
 
 ---
 
-## 🧩 Key Strengths
-
-- Designing **end-to-end AI systems**  
-- Strong understanding of **RAG architectures & trade-offs**  
-- Building **scalable backend systems for ML applications**  
-- Focus on **real-world impact, performance, and usability**  
-
----
-
 ## 📈 What Makes My Work Different
 
 - I don’t just use LLMs — I **engineer systems around them**  
