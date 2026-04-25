@@ -1,16 +1,28 @@
 # 👋 Hello, I'm Yeshwanth  
-**AI/ML & Backend Engineer | Building Production-Ready LLM Systems, Adaptive RAG Pipelines & Intelligent AI workflows**
+### AI Engineer | LLM Systems | Adaptive RAG | AI Agents | FastAPI | Production AI Applications
 
 ---
 
 ## 🧠 About me
 
-I’m an engineer focused on **designing and deploying scalable AI-powered systems** that combine retrieval systems, agent workflows, and backend engineering into cohesive, production-ready systems with a strong focus on **cost efficiency, scalability, and real-world deployment constraints**.
+I **design and deploy production-grade AI systems** that combine LLMs, retrieval, agent workflows, and backend engineering.
 
-I care deeply about:
-- Building **production-grade AI systems**
-- Designing **adaptive, intelligent pipelines**
-- **Evaluation** & **Reliability** of LLM Systems
+Focused on:
+- Scalable RAG architectures
+- Intelligent AI agents
+- Reliable & observable AI systems
+- Cost-efficient production deployments
+
+---
+
+## 📌 Impact Snapshot
+
+- Automated **75% of manual driver verification workflows**
+- Accelerated driver onboarding turnaround by **90%+**
+- Improved **retrieval relevance / answer accuracy by 46%** in RAG pipelines
+- Reduced **retrieval and response latency by 30%**
+- Decreased customer support resolution time by **86%**
+- Reduced production incidents and failures by **25%**
 
 ---
 
@@ -71,14 +83,14 @@ I care deeply about:
 
 
 ### 🌐 Frontend & Interaction  
-- Streamlit (AI Apps, Dashboards) . gradio
+- Streamlit (AI Apps, Dashboards) · Gradio
 - HTML · CSS · JavaScript (Basic UI Development)  
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 Auto-Adaptive Hybrid RAG System  
+### 🧠 [Adaptive Hybrid RAG System](https://github.com/Yeshw-anth/Adaptive-Hybrid-RAG)
 **Production-ready intelligent retrieval system for diverse data sources**
 
 - Built a **structure-aware ingestion pipeline** supporting text, code, tables, and images  
@@ -90,11 +102,11 @@ I care deeply about:
 - Integrated **multi-strategy retrieval + reranking** for improved answer quality  
 - Optimized for **latency, scalability, and extensibility**
 
-**Tech:** Python · FastAPI · FAISS · LangChain · LLMs . llama-index
+**Tech:** Python · FastAPI · FAISS · LangChain · LLMs · LlamaIndex
 
 
 
-### 📊 DataSense AI — AI-Powered Data Analyst  
+### 📊 [DataSense AI](https://github.com/Yeshw-anth/DataSense-AI) — AI-Powered Data Analyst  
 **Go from raw data to insights in seconds using natural language**
 
 - Built an **AI analyst system** that converts user queries into:
@@ -106,7 +118,7 @@ I care deeply about:
 - Designed for **non-technical users** to interact with data via chat  
 - Focused on **speed, usability, and business value delivery**
 
-**Tech:** Python · Flask · SQL · Pandas · LLMs . AI Agents . Langchain . Langgraph 
+**Tech:** Python · Flask · SQL · Pandas · LLMs · AI Agents · Langchain · Langgraph 
 
 
 
@@ -120,7 +132,7 @@ I care deeply about:
 - Focused on **conversation accuracy and state handling**
 - Improved response time, issue resolution and customer satisfaction
 
-**Tech:** Python · Rasa · REST APIs · WebSockets · JavaScript . LLMs
+**Tech:** Python · Rasa · REST APIs · WebSockets · JavaScript · LLMs
 
 
 
@@ -133,26 +145,22 @@ I care deeply about:
 - **Reduced manual effort** and **improved processing consistency** through automated driver verification and onboarding 
 - Optimized pipeline for **high throughput, reliability, and cost efficiency** in real-world deployment  
 
-**Tech:** Python · FastAPI · Azure AI . LLMs
+**Tech:** Python · FastAPI · Azure AI · LLMs
 
 ---
 
-## 📈 What Makes My Work Different
+## 📈 Engineering Philosophy
 
-- I don’t just use LLMs — I **engineer systems around them**  
-- I focus on **adaptive intelligence (not static pipelines)**  
-- I build with **production constraints in mind**:
-  - Latency  
-  - Cost  
-  - Evaluation  
-  - Observability  
+- Production-first AI systems  
+- Adaptive over static pipelines  
+- Built for latency, cost, and reliability  
 
 ---
 
 ## 🤝 Let’s Connect
 
 I’m always open to:
-- Collaborating on **AI/ML or backend projects**
+- Collaborating on **AI Engineering or LLM projects**
 - Discussing **system design, RAG, or LLM architectures**
 - Exploring **opportunities in AI engineering**
 
