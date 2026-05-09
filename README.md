@@ -91,18 +91,17 @@ Focused on:
 ## 🔥 Featured Projects
 
 ### 🧠 [Adaptive Hybrid RAG System](https://github.com/Yeshw-anth/Adaptive-Hybrid-RAG)
-**Production-ready intelligent retrieval system for diverse data sources**
+**Auto-adaptive, production-ready RAG system with dynamic vector and graph-native reasoning**
 
-- Built a **structure-aware ingestion pipeline** supporting text, code, tables, and images  
-- Designed **adaptive chunking strategies** optimized per content type  
-- Implemented a **dynamic query router** that selects:
-  - Fast pipeline (low latency)
-  - Accurate pipeline (deep retrieval + reranking)
-  - Specialized pipelines (for complex queries)
-- Integrated **multi-strategy retrieval + reranking** for improved answer quality  
-- Optimized for **latency, scalability, and extensibility**
+- Architected a **true hybrid retrieval system** combining dense vector search, keyword search, and a Neo4j Knowledge Graph for superior accuracy.
+- Built a **content-aware ingestion pipeline** with adaptive chunking strategies for diverse data types including text, code, and tables.
+- Developed an **intelligent query analyzer** that dynamically routes questions to the optimal pipeline:
+  - **Vector/Hybrid Pipeline** for semantic search with cross-encoder reranking.
+  - **Graph Pipeline** for complex, multi-hop questions requiring deep reasoning.
+- Implemented a **two-tiered graph retrieval engine** that translates natural language to Cypher queries, with a robust entity-based fallback.
+- Established a **quantitative evaluation framework** using `ragas` to measure and ensure high-quality answer faithfulness and relevance.
 
-**Tech:** Python · FastAPI · FAISS · LangChain · LLMs · LlamaIndex
+**Tech:** Python · FastAPI · Faiss · Neo4j · LlamaIndex · spaCy · Ollama · LLMs · LangChain · Ragas
 
 
 
