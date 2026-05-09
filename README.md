@@ -105,7 +105,7 @@ Focused on:
 
 
 
-### 📊 [DataSense AI](https://github.com/Yeshw-anth/DataSense-AI) — AI-Powered Data Analyst  
+### 📊 [DataSense AI](https://github.com/Yeshw-anth/DataSense-AI)
 **Go from raw data to insights in seconds using natural language**
 
 - Built an **AI analyst system** that converts user queries into:
